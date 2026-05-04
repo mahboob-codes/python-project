@@ -1,5 +1,5 @@
 num = input("enter number :")
 if num == num[::-1]:
-    print("palindrome")
+    print("pallindrome")
 else:
-    print("not palindrome")
+    print("not pallindrome")
